@@ -36,9 +36,8 @@ document.addEventListener('DOMContentLoaded', function() {
                     video: 'VideoNeujeu1.mp4',
                     description: 'Type d\'exctraction \n Wpff-120u',
                     tarifs: [
-                        { weight: '10g', price: 120.00 },
-                        { weight: '25g', price: 260.00 },
-                        { weight: '50g', price: 450.00 },
+                        { weight: '1g', price: 80.00 },
+                        { weight: '2g', price: 150.00 },
                     ]
                 },
                 {
@@ -50,8 +49,8 @@ document.addEventListener('DOMContentLoaded', function() {
                     video: 'VideoNejeu2.mp4',
                     description: 'Type d\'exctraction \n Wpff-120u',
                     tarifs: [
-                        { weight: '10g', price: 130.00 },
-                        { weight: '25g', price: 270.00 },
+                        { weight: '1g', price: 80.00 },
+                        { weight: '2g', price: 150.00 },
                     ]
                 },
                 {
@@ -63,8 +62,8 @@ document.addEventListener('DOMContentLoaded', function() {
                     video: 'MousseauStar.mp4',
                     description: 'Type d\'exctraction \n Live rosin 70-120u',
                     tarifs: [
-                        { weight: '10g', price: 130.00 },
-                        { weight: '25g', price: 270.00 },
+                        { weight: '1g', price: 250.00 },
+                        { weight: '2g', price: 500.00 },
                     ]
                 },
                 {
@@ -76,8 +75,8 @@ document.addEventListener('DOMContentLoaded', function() {
                     video: 'MousseauStar.mp4',
                     description: 'Type d\'exctraction \n Live rosin 70-120u',
                     tarifs: [
-                        { weight: '10g', price: 130.00 },
-                        { weight: '25g', price: 270.00 },
+                        { weight: '1g', price: 250.00 },
+                        { weight: '2g', price: 500.00 },
                     ]
                 },
                 {
@@ -89,8 +88,8 @@ document.addEventListener('DOMContentLoaded', function() {
                     video: 'MousseauStar.mp4',
                     description: 'Type d\'exctraction \n Live rosin 70-120u',
                     tarifs: [
-                        { weight: '10g', price: 130.00 },
-                        { weight: '25g', price: 270.00 },
+                        { weight: '1g', price: 250.00 },
+                        { weight: '2g', price: 500.00 },
                     ]
                 }
             ]
@@ -115,9 +114,9 @@ document.addEventListener('DOMContentLoaded', function() {
                     video: 'VideoCali2.mp4',
                     description: 'Ultra rare - 27.33% THC \n ( Sherbanger #22 x Zangria )',
                     tarifs: [
-                        { weight: '10g', price: 120.00 },
-                        { weight: '25g', price: 260.00 },
-                        { weight: '50g', price: 450.00 },
+                        { weight: '3,5g', price: 130.00 },
+                        { weight: '7g', price: 250.00 },
+                        { weight: '10,5g', price: 350.00 },
                     ]
                 },
                 {
@@ -129,8 +128,9 @@ document.addEventListener('DOMContentLoaded', function() {
                     video: 'VideoCali1.mp4',
                     description: 'Batch 09/09/2025 \n ( Limelight x Blackmagic )',
                     tarifs: [
-                        { weight: '5g', price: 80.00 },
-                        { weight: '10g', price: 150.00 },
+                        { weight: '3,5g', price: 130.00 },
+                        { weight: '7g', price: 250.00 },
+                        { weight: '10,5g', price: 350.00 },
                     ]
                 }
             ]
